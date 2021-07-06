@@ -1,3 +1,3 @@
 # Angular RxJS
 
-i should add a readmee
+i should add a readme
